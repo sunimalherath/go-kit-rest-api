@@ -1,1 +1,1 @@
-# go-kit-rest-api
+# Doing REST API with Go kit
